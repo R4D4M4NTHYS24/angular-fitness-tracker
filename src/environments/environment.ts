@@ -11,6 +11,6 @@ export const environment = {
     projectId: 'ng-fitness-tracker-efef9',
     storageBucket: 'ng-fitness-tracker-efef9.appspot.com',
     messagingSenderId: '219656409077',
-    appId: '1:219656409077:web:5ca6b7dbfd75ab1a7c1abc', // value new diferent at course
+    appId: '1:219656409077:web:f9eb897cfc083cdf7c1abc', // value new diferent at course
   },
 };
