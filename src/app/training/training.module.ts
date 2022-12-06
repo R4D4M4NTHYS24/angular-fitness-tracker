@@ -16,8 +16,8 @@ import { SharedModule } from '../shared/shared.module';
   declarations: [
     TrainingComponent,
     //CurrentTrainingComponent,
-    NewTrainingComponent,
-    PastTrainingsComponent,
+    //NewTrainingComponent,
+    //PastTrainingsComponent,
     //StopTrainingComponent,
   ],
   imports: [SharedModule, AngularFirestoreModule],
